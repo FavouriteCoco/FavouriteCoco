@@ -1,40 +1,36 @@
 # Hi, I'm Coco 👋
 
-## 📊 Data Analyst
+## 📊 Data Analyst | Excel | SQL | Power BI | Tableau
 
-I analyze data to uncover insights that support business decisions, performance tracking, and strategic growth.
+I turn raw data into meaningful insights that support business decisions and growth.
 
 ---
 
 ## 🧠 Skills
 - Excel (Data cleaning, dashboards, pivot tables)
-- SQL (data extraction & analysis)
+- SQL (data querying and analysis)
 - Power BI (interactive dashboards)
-- Python (basic data analysis with Pandas)
-- Tableau (visual dashboards)
+- Tableau (data visualization)
+- Python (basic data analysis)
 
 ---
 
-## 📁 Projects
+## 📁 Featured Projects
 
-### 📊 E-Commerce Sales Performance Dashboard Analysis
-Analysis of online retail sales to identify revenue trends, top products, and customer behavior patterns.
+Click to view full case studies 👇
 
-### 💊 Pharmacy Sales Analytics Dashboard (Revenue & Trends Analysis)
-A dashboard showing sales performance, product demand, and seasonal trends in pharmacy operations.
-
-### 📱 Social Media Engagement Analytics (Content Performance Insights)
-Analysis of engagement metrics to understand content performance, audience interaction, and growth patterns.
-
-### 🦠 COVID-19  Data Analysis (Trends & Impact Insights)
-Exploratory data analysis of COVID-19 trends including cases, deaths, and regional impact.
+- 📊 [E-Commerce Sales Analysis](https://github.com/FavouriteCoco/ecommerce-sales-analysis)
+- 💊 [Pharmacy Sales Analysis](https://github.com/FavouriteCoco/pharmacy-sales-analysis)
+- 📱 [Social Media Engagement Analysis](https://github.com/FavouriteCoco/social-media-engagement-analysis)
+- 🦠 [COVID-19 Data Analysis](https://github.com/FavouriteCoco/covid-19-data-analysis)
 
 ---
 
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/uncommon-maurice-22a930380
-- Email: unco2002@@gmail.com
+- Email: unco2002@gmail.com
 
 ---
 
-⚡ Turning raw data into meaningful insights.
+⚡ Always learning. Always analyzing.
+
