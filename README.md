@@ -26,7 +26,7 @@ A dashboard showing sales performance, product demand, and seasonal trends in ph
 ### 📱 Social Media Engagement Analytics (Content Performance Insights)
 Analysis of engagement metrics to understand content performance, audience interaction, and growth patterns.
 
-### 🦠 COVID-19 Global Data Analysis (Trends & Impact Insights)
+### 🦠 COVID-19  Data Analysis (Trends & Impact Insights)
 Exploratory data analysis of COVID-19 trends including cases, deaths, and regional impact.
 
 ---
