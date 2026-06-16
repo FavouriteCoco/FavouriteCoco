@@ -19,7 +19,7 @@ I turn raw data into meaningful insights that support business decisions and gro
 
 Click to view full case studies 👇
 
-- 📊 [E-Commerce Sales Analysis](https://github.com/FavouriteCoco/ecommerce-sales-analysis)
+- 📊 [E-Commerce Sales Analysis](https://github.com/FavouriteCoco/e-commerce-sale-analysis)
 - 💊 [Pharmacy Sales Analysis](https://github.com/FavouriteCoco/pharmacy-sales-analysis)
 - 📱 [Social Media Engagement Analysis](https://github.com/FavouriteCoco/social-media-engagement-analysis)
 - 🦠 [COVID-19 Data Analysis](https://github.com/FavouriteCoco/covid-19-data-analysis)
